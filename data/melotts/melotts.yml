@@ -1,0 +1,13 @@
+name: "MeloTTS"
+description: "Open-source multilingual text-to-speech library developed by MyShell, supporting high-quality inference in multiple languages with CPU and GPU options. MIT license."
+source_url: "https://github.com/MyShell-AI/MeloTTS"
+category: "Open-Source TTS Models"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "ai-powered"
+  - "multilingual"
+  - "mit"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/MyShell-AI/MeloTTS>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:09"

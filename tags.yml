@@ -1,0 +1,56 @@
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: freemium
+  name: "Freemium"
+- id: enterprise
+  name: "Enterprise"
+- id: voice-cloning
+  name: "Voice Cloning"
+- id: paid
+  name: "Paid"
+- id: real-time
+  name: "Real-Time"
+- id: streaming
+  name: "Streaming"
+- id: cloud
+  name: "Cloud"
+- id: voiceover
+  name: "Voiceover"
+- id: dubbing
+  name: "Dubbing"
+- id: app
+  name: "App"
+- id: accessibility
+  name: "Accessibility"
+- id: editor
+  name: "Editor"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: model-weights
+  name: "Model Weights"
+- id: mit
+  name: "MIT"
+- id: free-plan
+  name: "Free Plan"
+- id: local
+  name: "Local"
+- id: offline
+  name: "Offline"
+- id: multimodal
+  name: "Multimodal"
+- id: multilingual
+  name: "Multilingual"
+- id: benchmarks
+  name: "Benchmarks"
+- id: leaderboard
+  name: "Leaderboard"
+- id: comparison
+  name: "Comparison"
+- id: free
+  name: "Free"
+- id: localization
+  name: "Localization"

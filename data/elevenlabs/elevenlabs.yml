@@ -1,0 +1,13 @@
+name: "ElevenLabs"
+description: "AI voice generation platform offering multilingual text-to-speech, voice cloning, and dubbing APIs for developers and creators. Freemium with paid tiers."
+source_url: "https://elevenlabs.io/"
+category: "TTS APIs"
+tags:
+  - "api"
+  - "ai-powered"
+  - "freemium"
+  - "enterprise"
+  - "voice-cloning"
+icon_url: "https://icons.duckduckgo.com/ip3/elevenlabs.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://elevenlabs.io/>\n"
+updated_at: "2026-11-21 01:09"

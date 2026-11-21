@@ -1,0 +1,12 @@
+name: "Kokoro"
+description: "Open-weight open-source text-to-speech model with 82 million parameters, designed for efficient inference and community fine-tuning. Apache 2.0 license."
+source_url: "https://github.com/hexgrad/kokoro"
+category: "Open-Source TTS Models"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "ai-powered"
+  - "model-weights"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/hexgrad/kokoro>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:09"

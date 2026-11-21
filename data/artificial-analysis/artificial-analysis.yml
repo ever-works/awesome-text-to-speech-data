@@ -1,0 +1,13 @@
+name: "Artificial Analysis"
+description: "Independent AI model benchmarking site that publishes text-to-speech leaderboards comparing latency, cost, and quality across commercial providers. Free to access."
+source_url: "https://artificialanalysis.ai/"
+category: "Benchmarks & Leaderboards"
+tags:
+  - "free-plan"
+  - "benchmarks"
+  - "leaderboard"
+  - "comparison"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/artificialanalysis.ai.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://artificialanalysis.ai/>\n"
+updated_at: "2026-11-21 01:09"

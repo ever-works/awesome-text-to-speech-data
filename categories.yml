@@ -1,0 +1,12 @@
+- id: tts-apis
+  name: "TTS APIs"
+- id: open-source-tts-models
+  name: "Open-Source TTS Models"
+- id: voice-cloning
+  name: "Voice Cloning"
+- id: real-time-streaming-tts
+  name: "Real-Time / Streaming TTS"
+- id: dubbing-and-voiceover-apps
+  name: "Dubbing & Voiceover Apps"
+- id: benchmarks-and-leaderboards
+  name: "Benchmarks & Leaderboards"

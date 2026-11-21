@@ -1,0 +1,13 @@
+name: "Piper"
+description: "Fast, locally installed open-source text-to-speech system optimized for low-resource devices and offline use, part of the Rhasspy voice assistant ecosystem. MIT license."
+source_url: "https://github.com/rhasspy/piper"
+category: "Open-Source TTS Models"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "local"
+  - "offline"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/rhasspy/piper>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:09"

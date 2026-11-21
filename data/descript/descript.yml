@@ -1,0 +1,13 @@
+name: "Descript"
+description: "Audio and video editing platform featuring Overdub, an AI voice cloning tool for editing spoken content by typing. Freemium and paid subscriptions."
+source_url: "https://descript.com/"
+category: "Voice Cloning"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "paid"
+  - "voice-cloning"
+  - "editor"
+icon_url: "https://icons.duckduckgo.com/ip3/descript.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://descript.com/>\n"
+updated_at: "2026-11-21 01:09"
