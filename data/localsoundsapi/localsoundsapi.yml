@@ -1,0 +1,43 @@
+name: LocalSoundsAPI
+description: LocalSoundsAPI is a portable offline audio studio for Windows with
+  a Web UI and local REST API. It bundles XTTS v2, Fish Speech, and Kokoro TTS
+  with voice cloning, Whisper verification, Stable Audio, and ACE-Step
+  music/SFX, with per-model CPU/GPU selection. No install; MIT licensed.
+source_url: https://github.com/aivrar/LocalSoundsAPI
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Offline
+  - Windows
+  - MIT
+markdown: >-
+  ## Overview
+
+
+  LocalSoundsAPI is a portable offline audio studio for Windows bundling XTTS
+  v2, Fish Speech, and Kokoro TTS with voice cloning, Whisper verification, and
+  music/SFX generation.
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Deployment
+
+
+  Self-hosted, offline, Windows
+
+
+  ## Repository
+
+
+  https://github.com/aivrar/LocalSoundsAPI
+brand: aivrar
+brand_logo_url: https://github.com/aivrar/LocalSoundsAPI/raw/main/logo.png
+images:
+  - https://github.com/aivrar/LocalSoundsAPI/raw/main/logo.png
+updated_at: 2026-11-26 10:16

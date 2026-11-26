@@ -1,0 +1,55 @@
+name: Cepstral
+description: Cepstral is a proprietary text-to-speech system by Cepstral LLC,
+  first released in 2000 with the latest version in 2013. It supports English,
+  Italian, French, German, Spanish and other languages with 25+ voices across
+  multiple platforms.
+source_url: https://www.cepstral.com/
+category: TTS APIs
+tags:
+  - Proprietary
+  - Cross-platform
+  - Enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cepstral is a proprietary text-to-speech system developed by Cepstral LLC.
+
+
+  ## Technical Details
+
+
+  - **First public release date**: 2000
+
+  - **Latest stable version**: 2013
+
+  - **License**: Proprietary
+
+  - **Available languages**: English (British), English (US), Italian, French
+  (Canadian), German, Spanish (American), ...
+
+  - **Available voices**: 25+
+
+  - **Programming language**: C/C++
+
+  - **Operating system(s)**: Mac OS X, Windows, i386-Linux, x86-64-Linux,
+  Sparc-Solaris, i386-Solaris
+
+
+  ## Technical Voice Details
+
+
+  - SSML support: Yes
+
+  - SAPI version: 5.x
+
+  - WS support: Yes
+
+  - PLS support: Yes
+
+  - CLI support: Yes
+brand: Cepstral LLC
+brand_logo_url: https://www.cepstral.com/images/cepstral-logo.png
+images: []
+updated_at: 2026-11-26 10:16

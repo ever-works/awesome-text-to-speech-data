@@ -1,0 +1,40 @@
+name: Fish Speech
+description: Fish Speech is an SOTA multilingual, multi-speaker text-to-speech
+  model with superior naturalness. It is implemented in Python and designed for
+  high-quality speech synthesis across languages.
+source_url: https://github.com/fishaudio/fish-speech
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Multilingual
+  - Multi-Speaker
+markdown: >-
+  ## Overview
+
+
+  Fish Speech is a state-of-the-art multilingual, multi-speaker TTS model known
+  for superior naturalness in speech synthesis.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/fishaudio/fish-speech
+brand: Fish Audio
+brand_logo_url: https://github.com/fishaudio/fish-speech/raw/main/logo.png
+images:
+  - https://github.com/fishaudio/fish-speech/raw/main/logo.png
+updated_at: 2026-11-26 10:16

@@ -1,0 +1,34 @@
+name: Deepgram Aura
+description: Deepgram Aura is a low-latency text-to-speech API designed for
+  real-time conversational AI and virtual interactions. It is optimized for fast
+  response times in voice agent applications.
+source_url: https://deepgram.com/aura
+category: TTS APIs
+tags:
+  - API
+  - Real-Time
+  - AI-Powered
+  - Freemium
+markdown: >-
+  ## Overview
+
+
+  Deepgram Aura specializes in low-latency TTS designed for real-time
+  conversational AI and virtual interactions.
+
+
+  ## Pricing
+
+
+  Free ($200 credit) / PAYG
+
+
+  ## Deployment
+
+
+  Cloud
+brand: Deepgram
+brand_logo_url: https://deepgram.com/logo.svg
+images:
+  - https://deepgram.com/images/aura/aura-hero.png
+updated_at: 2026-11-26 10:16

@@ -1,0 +1,40 @@
+name: GPT-SoVITS
+description: GPT-SoVITS is an open-source zero-shot and few-shot voice cloning
+  model that requires only 5 seconds of sample audio for cross-lingual speech
+  synthesis. It is implemented in Python/PyTorch.
+source_url: https://github.com/RVC-Boss/GPT-SoVITS
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Voice Cloning
+  - Self-Hosted
+  - AI-Powered
+markdown: >-
+  ## Overview
+
+
+  GPT-SoVITS is an open-source zero-shot and few-shot voice cloning model
+  requiring only 5 seconds of sample audio for cross-lingual speech synthesis.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/RVC-Boss/GPT-SoVITS
+brand: RVC-Boss
+brand_logo_url: https://github.com/RVC-Boss/GPT-SoVITS/raw/main/logo.png
+images:
+  - https://github.com/RVC-Boss/GPT-SoVITS/raw/main/logo.png
+updated_at: 2026-11-26 10:16

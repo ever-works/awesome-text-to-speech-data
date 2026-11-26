@@ -1,0 +1,24 @@
+## Overview
+
+Kyutai Moshi is an open-source full-duplex conversational AI model that enables real-time voice interaction. It supports native speech-to-speech (S2S) interaction with barge-in capability, allowing users to interrupt the model mid-speech.
+
+## Features
+
+- Full-duplex conversational AI
+- Real-time voice interaction
+- Native speech-to-speech (S2S) architecture
+- Barge-in / interruption support
+- Open-source release
+
+## Deployment
+
+Available as a web demo at moshi.chat; model weights and code released as open source.
+
+## Pricing
+
+Free and open-source.
+
+## Integrations
+
+- Web-based demo interface
+- Open-source model for self-deployment

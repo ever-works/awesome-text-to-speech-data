@@ -1,0 +1,51 @@
+name: Nuance Vocalizer
+description: Nuance Vocalizer is a proprietary text-to-speech system by Nuance
+  Communications, Inc., with the latest version from 2018. It supports over 70
+  voices across US English, Australian English, Indian English, Irish English,
+  South African English, UK English, Spanish variants, Arabic, Catalan, Basque,
+  Galician, Dutch, Portuguese, Bulgarian, French, Cantonese, Mandarin, Czech,
+  Danish, Finnish, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian,
+  Japanese, Korean, Norwegian, Polish, Romanian, Russian, Slovak, Swedish, Thai,
+  Turkish and more.
+source_url: https://www.nuance.com/
+category: TTS APIs
+tags:
+  - Proprietary
+  - Enterprise
+  - Multi-language
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Nuance Vocalizer is a proprietary text-to-speech system developed by Nuance
+  Communications, Inc.
+
+
+  ## Technical Details
+
+
+  - **First public release date**: Unknown
+
+  - **Latest stable version**: 2018
+
+  - **License**: Proprietary
+
+  - **Available languages**: US English, Australian English, Indian English,
+  Irish English, South African English, UK English, Argentinian Spanish,
+  Castilian Spanish, Colombian Spanish, Mexican Spanish, Arabic, Catalan,
+  Basque, Galician, Dutch, Belgian Dutch, Portuguese, Brazilian Portuguese,
+  Bulgarian, French, Canadian French, Cantonese (Hong Kong), Mandarin, Mandarin
+  Taiwanese, Czech, Danish, Finnish, German, Greek, Hebrew, Hindi, Hungarian,
+  Indonesian, Italian, Japanese, Korean, Norwegian, Polish, Romanian, Russian,
+  Slovak, Swedish, Thai, Turkish
+
+  - **Available voices**: 70+
+
+  - **Programming language**: C/C++
+
+  - **Operating system(s)**: Windows, Linux, Android
+brand: Nuance Communications
+brand_logo_url: https://www.nuance.com/-/media/logos/nuance-logo.svg
+images: []
+updated_at: 2026-11-26 10:16

@@ -1,0 +1,40 @@
+name: VoiceCraft
+description: VoiceCraft is a token-infilling neural codec model for zero-shot
+  speech editing and TTS synthesis. It enables precise in-audio speech editing
+  and zero-shot voice cloning, implemented in Python/PyTorch.
+source_url: https://github.com/jasonppy/VoiceCraft
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Voice Cloning
+  - AI-Powered
+markdown: >-
+  ## Overview
+
+
+  VoiceCraft is a state-of-the-art token-infilling neural codec model capable of
+  both zero-shot voice cloning and precise in-audio speech editing.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/jasonppy/VoiceCraft
+brand: Jason Li et al.
+brand_logo_url: https://github.com/jasonppy/VoiceCraft/raw/main/logo.png
+images:
+  - https://github.com/jasonppy/VoiceCraft/raw/main/logo.png
+updated_at: 2026-11-26 10:16

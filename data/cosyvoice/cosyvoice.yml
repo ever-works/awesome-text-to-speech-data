@@ -1,0 +1,41 @@
+name: CosyVoice
+description: CosyVoice is an Alibaba-developed multilingual and zero-shot voice
+  cloning model capable of high-fidelity speech synthesis. It supports
+  in-context voice cloning with detailed multi-dialect representations.
+source_url: https://github.com/FunAudioLLM/CosyVoice
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Voice Cloning
+  - Multilingual
+markdown: >-
+  ## Overview
+
+
+  CosyVoice is an open-source multilingual and zero-shot voice cloning model
+  from Alibaba, capable of high-fidelity speech synthesis with multi-dialect
+  support.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/FunAudioLLM/CosyVoice
+brand: Alibaba
+brand_logo_url: https://github.com/FunAudioLLM/CosyVoice/raw/main/logo.png
+images:
+  - https://github.com/FunAudioLLM/CosyVoice/raw/main/logo.png
+updated_at: 2026-11-26 10:16

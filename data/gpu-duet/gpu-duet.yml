@@ -1,0 +1,42 @@
+name: gpu-duet
+description: gpu-duet runs local LLM + voice-cloning TTS on one 8 GB GPU. It
+  runs Qwen3-TTS 1.7B on a patched C++ engine next to a llama.cpp LLM, with the
+  LLM pausing after each sentence until TTS synthesis completes. Apache-2.0
+  licensed.
+source_url: https://github.com/korexil/gpu-duet
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Local
+  - Voice Cloning
+  - Apache-2.0
+markdown: >-
+  ## Overview
+
+
+  gpu-duet runs a local LLM plus voice-cloning TTS on a single 8 GB GPU, using
+  Qwen3-TTS 1.7B on a patched C++ engine alongside llama.cpp.
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Deployment
+
+
+  Self-hosted, local HTTP service
+
+
+  ## Repository
+
+
+  https://github.com/korexil/gpu-duet
+brand: korexil
+brand_logo_url: https://github.com/korexil/gpu-duet/raw/main/logo.png
+images:
+  - https://github.com/korexil/gpu-duet/raw/main/logo.png
+updated_at: 2026-11-26 10:16

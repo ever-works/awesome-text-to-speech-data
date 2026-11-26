@@ -1,0 +1,50 @@
+name: Drama-3-Japanese-speech-cpp-gguf
+description: Drama-3-Japanese-speech-cpp-gguf is an open-source text-to-speech
+  model by StudioYebisu-ship-it, hosted on Hugging Face. It is a 36B parameter
+  GGUF-quantized Japanese speech synthesis model.
+source_url: https://huggingface.co/StudioYebisu-ship-it/Drama-3-Japanese-speech-cpp-gguf
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Model Weights
+  - GGUF
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Drama-3-Japanese-speech-cpp-gguf is an open-source text-to-speech model
+  developed by StudioYebisu-ship-it and hosted on Hugging Face.
+
+
+  ## Details
+
+
+  - Task: Text-to-Speech
+
+  - Parameters: 36B
+
+  - Format: GGUF
+
+  - Platform: Hugging Face Hub
+
+  - Updated: 2 days ago
+
+  - Downloads: 35.9k
+
+  - Likes: 93
+
+
+  ## License
+
+
+  License information is available on the Hugging Face model page.
+
+
+  ## Repository
+
+
+  https://huggingface.co/StudioYebisu-ship-it/Drama-3-Japanese-speech-cpp-gguf
+brand: StudioYebisu-ship-it
+updated_at: 2026-11-26 10:16

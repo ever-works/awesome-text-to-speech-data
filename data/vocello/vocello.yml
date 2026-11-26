@@ -1,0 +1,43 @@
+name: Vocello
+description: Vocello is a native Mac & iPhone app using Qwen3-TTS with preset
+  speakers, natural-language voice design, and voice cloning. It runs entirely
+  on Apple Silicon with no Python runtime and is faster than realtime on an 8 GB
+  M2.
+source_url: https://github.com/PowerBeef/Vocello
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Native App
+  - Apple Silicon
+  - Voice Cloning
+markdown: >-
+  ## Overview
+
+
+  Vocello is a native Mac and iPhone app using Qwen3-TTS with preset speakers,
+  natural-language voice design, and voice cloning, running entirely on Apple
+  Silicon without Python.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, native macOS/iOS
+
+
+  ## Repository
+
+
+  https://github.com/PowerBeef/Vocello
+brand: PowerBeef
+brand_logo_url: https://github.com/PowerBeef/Vocello/raw/main/logo.png
+images:
+  - https://github.com/PowerBeef/Vocello/raw/main/logo.png
+updated_at: 2026-11-26 10:16

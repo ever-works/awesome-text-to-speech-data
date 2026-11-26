@@ -1,0 +1,41 @@
+name: VALL-E-X
+description: VALL-E-X is an open-source implementation of Microsoft's VALL-E X
+  for zero-shot cross-lingual voice cloning. It is implemented in Python/PyTorch
+  and enables voice replication across languages.
+source_url: https://github.com/Plachtaa/VALL-E-X
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Voice Cloning
+  - Cross-Lingual
+markdown: >-
+  ## Overview
+
+
+  VALL-E-X is an open-source implementation of Microsoft's VALL-E X for
+  zero-shot cross-lingual voice cloning, enabling voice replication across
+  different languages.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/Plachtaa/VALL-E-X
+brand: Plachtaa
+brand_logo_url: https://github.com/Plachtaa/VALL-E-X/raw/main/logo.png
+images:
+  - https://github.com/Plachtaa/VALL-E-X/raw/main/logo.png
+updated_at: 2026-11-26 10:16

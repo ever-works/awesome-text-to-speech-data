@@ -1,0 +1,49 @@
+name: VoiceText
+description: VoiceText is a proprietary text-to-speech system by ReadSpeaker
+  (formerly NeoSpeech), first released in 2002 with the latest version in 2017.
+  It supports English (US), English (British), American Spanish, Canadian
+  French, Chinese Mandarin, Japanese, and Korean with 13 voices.
+source_url: https://www.readspeaker.com/
+category: TTS APIs
+tags:
+  - Proprietary
+  - Multi-language
+  - Enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  VoiceText is a proprietary text-to-speech system developed by ReadSpeaker
+  (formerly NeoSpeech).
+
+
+  ## Technical Details
+
+
+  - **First public release date**: 2002
+
+  - **Latest stable version**: 2017
+
+  - **License**: Proprietary
+
+  - **Available languages**: English (US), English (British), American Spanish,
+  Canadian French, Chinese Mandarin, Japanese, Korean
+
+  - **Available voices**: 13
+
+  - **Programming language**: C/C++/Java
+
+  - **Operating system(s)**: Windows, Linux
+
+
+  ## Technical Voice Details
+
+
+  - SSML support: Yes
+
+  - SAPI version: 5.x
+brand: ReadSpeaker
+brand_logo_url: https://www.readspeaker.com/wp-content/themes/readspeaker/assets/images/logo.svg
+images: []
+updated_at: 2026-11-26 10:16

@@ -1,0 +1,46 @@
+name: Drama-3 (Fishaudio)
+description: Drama-3 is an open-source text-to-speech model by fishaudio, hosted
+  on Hugging Face. It is a 36B parameter model for speech synthesis.
+source_url: https://huggingface.co/fishaudio/drama-3
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Model Weights
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Drama-3 is an open-source text-to-speech model developed by fishaudio and
+  hosted on Hugging Face.
+
+
+  ## Details
+
+
+  - Task: Text-to-Speech
+
+  - Parameters: 36B
+
+  - Platform: Hugging Face Hub
+
+  - Updated: 28 days ago
+
+  - Downloads: 44k
+
+  - Likes: 1.34k
+
+
+  ## License
+
+
+  License information is available on the Hugging Face model page.
+
+
+  ## Repository
+
+
+  https://huggingface.co/fishaudio/drama-3
+brand: fishaudio
+updated_at: 2026-11-26 10:16

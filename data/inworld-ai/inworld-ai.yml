@@ -1,0 +1,34 @@
+name: Inworld AI
+description: Inworld AI provides a character-driven conversational voice engine
+  and real-time speech generation for interactive agents. It is designed for AI
+  characters in games and virtual experiences.
+source_url: https://inworld.ai/
+category: TTS APIs
+tags:
+  - API
+  - Real-Time
+  - AI-Powered
+  - Freemium
+markdown: >-
+  ## Overview
+
+
+  Inworld AI offers a character-driven conversational voice engine and real-time
+  speech generation for interactive agents and AI characters.
+
+
+  ## Pricing
+
+
+  Free (Basic / 100k API credits) / $20 per month
+
+
+  ## Deployment
+
+
+  Cloud
+brand: Inworld AI
+brand_logo_url: https://inworld.ai/logo.svg
+images:
+  - https://inworld.ai/images/voice-engine.png
+updated_at: 2026-11-26 10:16

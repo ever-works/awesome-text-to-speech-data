@@ -1,0 +1,58 @@
+name: LumenVox
+description: LumenVox is a proprietary text-to-speech system by LumenVox, first
+  released in 2011 with the latest version in 2019. It supports 20+ languages
+  including Danish, Dutch, English variants, French, German, Icelandic, Italian,
+  Polish, Portuguese, Romanian, Russian, Spanish variants, Swedish, Turkish and
+  Welsh, with 57 voices available.
+source_url: https://www.lumenvox.com/
+category: TTS APIs
+tags:
+  - Proprietary
+  - Enterprise
+  - Multi-language
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LumenVox is a proprietary text-to-speech system developed by LumenVox.
+
+
+  ## Technical Details
+
+
+  - **First public release date**: 2011
+
+  - **Latest stable version**: 2019
+
+  - **License**: Proprietary
+
+  - **Available languages**: Danish, Dutch, English (Australian), English (US),
+  English (UK), English (Welsh), English (Indian), French, French (Canadian),
+  German, Icelandic, Italian, Polish, Portuguese, Portuguese (Brazilian),
+  Romanian, Russian, Spanish (North American), Spanish (Latin American), Spanish
+  (Castilian), Swedish, Turkish, Welsh, Welsh English
+
+  - **Available voices**: 57
+
+  - **Programming language**: C/C++
+
+  - **Operating system(s)**: Windows, Linux
+
+
+  ## Technical Voice Details
+
+
+  - SSML support: Yes
+
+  - SAPI version: 5.x
+
+  - WS support: Yes
+
+  - PLS support: Yes
+
+  - CLI support: Yes
+brand: LumenVox
+brand_logo_url: https://www.lumenvox.com/wp-content/themes/lumenvox/assets/images/lumenvox-logo.svg
+images: []
+updated_at: 2026-11-26 10:16

@@ -1,0 +1,41 @@
+name: Chatterbox
+description: Chatterbox by Resemble AI is an advanced neural voice synthesis
+  model with emotion control and high-fidelity cloning. It provides zero-shot
+  voice cloning capabilities for instant voice replication.
+source_url: https://github.com/resemble-ai/chatterbox
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Voice Cloning
+  - Neural Voice Synthesis
+markdown: >-
+  ## Overview
+
+
+  Chatterbox by Resemble AI is an advanced neural voice synthesis model with
+  emotion control and high-fidelity cloning, offering zero-shot voice cloning
+  capabilities.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/resemble-ai/chatterbox
+brand: Resemble AI
+brand_logo_url: https://github.com/resemble-ai/chatterbox/raw/main/logo.png
+images:
+  - https://github.com/resemble-ai/chatterbox/raw/main/logo.png
+updated_at: 2026-11-26 10:16

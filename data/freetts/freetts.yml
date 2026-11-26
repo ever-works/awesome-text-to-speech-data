@@ -1,0 +1,35 @@
+name: FreeTTS
+description: FreeTTS is an open-source text-to-speech system written in Java,
+  first released on December 14, 2001, with the latest version from March 9,
+  2009. It is cross-platform and supports English with several voices under a
+  BSD license.
+source_url: https://freetts.sourceforge.io/
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - BSD
+  - Java
+  - Cross-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  FreeTTS is an open-source text-to-speech system written in Java.
+
+  ## Technical Details
+
+  - **First public release date**: 2001, December 14
+  - **Latest stable version**: 2009, March 9
+  - **License**: BSD
+  - **Available languages**: English...
+  - **Available voices**: Several
+  - **Programming language**: Java
+  - **Operating system(s)**: Cross-platform
+
+  ## Creators
+
+  Paul Lamere, Philip Kwok, Dirk Schnelle-Walka, Willie Walker and others
+brand: FreeTTS
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-26 10:16

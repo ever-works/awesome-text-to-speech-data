@@ -1,0 +1,40 @@
+name: ChatTTS
+description: ChatTTS is a conversational text-to-speech model specially
+  optimized for dialogue and natural conversational flow. It is implemented in
+  Python and designed for daily dialogue scenarios.
+source_url: https://github.com/2noise/ChatTTS
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - AI-Powered
+  - Multilingual
+markdown: >-
+  ## Overview
+
+
+  ChatTTS is a conversational text-to-speech model optimized for dialogue and
+  natural conversational flow, ideal for daily dialogue applications.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/2noise/ChatTTS
+brand: 2noise
+brand_logo_url: https://github.com/2noise/ChatTTS/raw/main/logo.png
+images:
+  - https://github.com/2noise/ChatTTS/raw/main/logo.png
+updated_at: 2026-11-26 10:16

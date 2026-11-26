@@ -1,0 +1,39 @@
+name: TTS Arena
+description: A community leaderboard for blind-testing the naturalness of modern
+  text-to-speech models, providing quality benchmarks and comparative rankings
+  across TTS systems.
+source_url: https://artificialanalysis.ai/models/speech
+category: Benchmarks & Leaderboards
+tags:
+  - benchmark
+  - leaderboard
+  - community
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TTS Arena is a community-driven leaderboard operated by Artificial Analysis
+  that evaluates text-to-speech models through blind A/B testing. Users compare
+  model outputs side by side to rank naturalness and quality across different
+  TTS systems.
+
+
+  ## Features
+
+
+  - Blind A/B testing of TTS model outputs
+
+  - Community-driven rankings and leaderboards
+
+  - Comparative quality scores across multiple models
+
+  - Regular updates with new model submissions
+
+
+  ## Pricing
+
+
+  Free to use for browsing and participating in benchmarks.
+brand: Artificial Analysis
+updated_at: 2026-11-26 10:16

@@ -1,0 +1,42 @@
+name: LocalMode
+description: LocalMode is an in-browser TTS solution that runs Kokoro (29
+  voices) and other AI models 100% in the browser via WebGPU/WASM. It requires
+  no server or API keys and works offline after the first load.
+source_url: https://github.com/LocalMode-AI/LocalMode
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Offline
+  - In-Browser
+  - WebGPU
+markdown: >-
+  ## Overview
+
+
+  LocalMode runs Kokoro (29 voices) and other AI models 100% in the browser via
+  WebGPU/WASM, with no server or API keys required and offline capability after
+  first load.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, in-browser, offline
+
+
+  ## Repository
+
+
+  https://github.com/LocalMode-AI/LocalMode
+brand: LocalMode
+brand_logo_url: https://github.com/LocalMode-AI/LocalMode/raw/main/logo.png
+images:
+  - https://github.com/LocalMode-AI/LocalMode/raw/main/logo.png
+updated_at: 2026-11-26 10:16

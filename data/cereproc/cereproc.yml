@@ -1,0 +1,60 @@
+name: CereProc
+description: CereProc is a proprietary text-to-speech system by CereProc, first
+  released in 2006 with the latest version in February 2017. It supports 46
+  voices across English variants, French, German, Italian, Spanish, Dutch,
+  Polish, Portuguese, Japanese, Catalan, Scottish Gaelic, Swedish, Russian,
+  Mandarin and more.
+source_url: https://www.cereproc.com/
+category: TTS APIs
+tags:
+  - Proprietary
+  - Multi-language
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CereProc is a proprietary text-to-speech system developed by CereProc.
+
+
+  ## Technical Details
+
+
+  - **First public release date**: 2006
+
+  - **Latest stable version**: 2017, February
+
+  - **License**: Proprietary
+
+  - **Available languages**: English (British), English (US), English
+  (Scottish), English (Irish), French, French (Canadian), German, Austrian
+  German, Italian, Irish, Spanish (Castilian), Spanish (Latin American), Dutch,
+  Polish, Portuguese, Portuguese (Brazilian), Japanese, Catalan, Scottish
+  Gaelic, Swedish, Russian, Mandarin
+
+  - **Available voices**: 46
+
+  - **Programming language**: Java / C, C++ / Objective C / Python / C# & .Net
+  through SAPI
+
+  - **Operating system(s)**: Linux, Windows, Mac OS X, Embedded Linux, Android,
+  iOS, Cloud service
+
+
+  ## Technical Voice Details
+
+
+  - SSML support: Yes
+
+  - SAPI version: 5.x
+
+  - WS support: Yes
+
+  - PLS support: Yes
+
+  - CLI support: Yes
+brand: CereProc
+brand_logo_url: https://www.cereproc.com/images/cereproc-logo.png
+images: []
+updated_at: 2026-11-26 10:16

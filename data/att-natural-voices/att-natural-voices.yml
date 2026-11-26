@@ -1,0 +1,49 @@
+name: AT&T Natural Voices
+description: AT&T Natural Voices is a proprietary text-to-speech system
+  developed by AT&T Labs, first released with an unknown date and last updated
+  in 2008. It supports multiple English variants, French, German, Italian, and
+  Spanish with 20 voices available.
+source_url: https://www.att.com/
+category: TTS APIs
+tags:
+  - Proprietary
+  - Enterprise
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AT&T Natural Voices is a proprietary text-to-speech system developed by AT&T
+  Labs.
+
+
+  ## Technical Details
+
+
+  - **First public release date**: Unknown
+
+  - **Latest stable version**: 2008
+
+  - **License**: Proprietary
+
+  - **Available languages**: English (British), English (Indian), English (US),
+  French, French (Canadian), German, Italian, Spanish (Latin American)
+
+  - **Available voices**: 20
+
+  - **Programming language**: C++
+
+  - **Operating system(s)**: Linux, Windows
+
+
+  ## Technical Voice Details
+
+
+  - SSML support: Yes
+
+  - SAPI version: 5.1
+brand: AT&T
+brand_logo_url: https://www.att.com/content/dam/att/business/images/logos/att-logo.svg
+images: []
+updated_at: 2026-11-26 10:16

@@ -1,0 +1,41 @@
+name: StyleTTS 2
+description: StyleTTS 2 is a human-level text-to-speech model that uses style
+  diffusion, adversarial training, and large SLMs without phoneme duration
+  models. It matches human speech naturalness via continuous style vectors.
+source_url: https://github.com/yl4579/StyleTTS2
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - AI-Powered
+  - Human-Level
+markdown: >-
+  ## Overview
+
+
+  StyleTTS 2 is an open-source TTS model using style diffusion and adversarial
+  training to achieve human-level speech naturalness without phoneme duration
+  models.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/yl4579/StyleTTS2
+brand: yl4579
+brand_logo_url: https://github.com/yl4579/StyleTTS2/raw/main/logo.png
+images:
+  - https://github.com/yl4579/StyleTTS2/raw/main/logo.png
+updated_at: 2026-11-26 10:16

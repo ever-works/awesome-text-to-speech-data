@@ -1,0 +1,36 @@
+name: Hume AI (EVI)
+description: Hume AI provides an Empathic Voice Interface (EVI) with emotional
+  prosody detection and low-latency expressive speech. It is designed for
+  emotionally intelligent voice AI applications.
+source_url: https://www.hume.ai/
+category: TTS APIs
+tags:
+  - API
+  - Real-Time
+  - AI-Powered
+  - Emotional Prosody
+  - Freemium
+markdown: >-
+  ## Overview
+
+
+  Hume AI (EVI) offers an Empathic Voice Interface with emotional prosody
+  detection and low-latency expressive speech for emotionally intelligent voice
+  AI.
+
+
+  ## Pricing
+
+
+  Free ($10 credit) / PAYG ($0.036/min)
+
+
+  ## Deployment
+
+
+  Cloud
+brand: Hume AI
+brand_logo_url: https://www.hume.ai/logo.svg
+images:
+  - https://www.hume.ai/images/hero.png
+updated_at: 2026-11-26 10:16

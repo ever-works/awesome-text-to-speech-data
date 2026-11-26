@@ -1,0 +1,34 @@
+name: Lovo.ai (Genny)
+description: Lovo.ai (Genny) is a next-generation AI voice generator with 500+
+  voices in 100+ languages and granular pitch and emphasis controls. It is
+  designed for content creators and voiceover production.
+source_url: https://lovo.ai/
+category: TTS APIs
+tags:
+  - AI-Powered
+  - Voiceover
+  - Freemium
+  - Multilingual
+markdown: >-
+  ## Overview
+
+
+  Lovo.ai (Genny) provides AI voice generation with 500+ voices across 100+
+  languages, featuring granular pitch and emphasis controls for creators.
+
+
+  ## Pricing
+
+
+  Free (14-day Pro trial) / $29 per month
+
+
+  ## Deployment
+
+
+  Cloud
+brand: LOVO
+brand_logo_url: https://lovo.ai/logo.svg
+images:
+  - https://lovo.ai/images/genny.png
+updated_at: 2026-11-26 10:16

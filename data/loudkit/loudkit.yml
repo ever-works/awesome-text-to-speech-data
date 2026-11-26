@@ -1,0 +1,44 @@
+name: loudkit
+description: loudkit is on-device TTS with native SDKs, offering 28 voices in 10
+  languages and voice cloning from about 10 seconds of audio. It includes a
+  local server with an OpenAI-compatible speech endpoint and supports PyTorch,
+  ONNX Runtime, and CoreML backends. Apache-2.0 licensed, derived from
+  Chatterbox.
+source_url: https://github.com/loudreader/loudkit
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - On-Device
+  - Voice Cloning
+  - Apache-2.0
+markdown: >-
+  ## Overview
+
+
+  loudkit provides on-device TTS with native SDKs, 28 voices in 10 languages,
+  voice cloning from ~10s of audio, and a local server with an OpenAI-compatible
+  speech endpoint.
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Deployment
+
+
+  Self-hosted, on-device, local server
+
+
+  ## Repository
+
+
+  https://github.com/loudreader/loudkit
+brand: LoudReader
+brand_logo_url: https://github.com/loudreader/loudkit/raw/main/logo.png
+images:
+  - https://github.com/loudreader/loudkit/raw/main/logo.png
+updated_at: 2026-11-26 10:16

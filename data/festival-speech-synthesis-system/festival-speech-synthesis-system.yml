@@ -1,0 +1,48 @@
+name: Festival Speech Synthesis System
+description: Festival Speech Synthesis System is an open-source text-to-speech
+  system developed by CSTR at the University of Edinburgh. It supports English
+  (UK), English (US), Spanish, Hindi, Croatian, Finnish, Polish, Welsh and
+  several other languages with an MIT-like license.
+source_url: http://www.cstr.ed.ac.uk/projects/festival/
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - MIT
+  - University
+  - Research
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Festival Speech Synthesis System is an open-source text-to-speech system
+  developed by CSTR at the University of Edinburgh.
+
+
+  ## Technical Details
+
+
+  - **First public release date**: Unknown
+
+  - **Latest stable version**: 2014, December
+
+  - **License**: MIT-like license
+
+  - **Available languages**: English (UK), English (US), Spanish, Hindi,
+  Croatian, Finnish, Polish, Welsh
+
+  - **Available voices**: Several
+
+  - **Programming language**: C++
+
+  - **Operating system(s)**: Linux, Windows
+
+
+  ## Technical Voice Details
+
+
+  - CLI support: Yes
+brand: University of Edinburgh
+brand_logo_url: https://www.ed.ac.uk/files/brand/edinburgh-university-logo.svg
+images: []
+updated_at: 2026-11-26 10:16

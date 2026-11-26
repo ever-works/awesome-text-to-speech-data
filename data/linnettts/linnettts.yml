@@ -1,0 +1,44 @@
+name: LinnetTTS
+description: LinnetTTS is a 41M-parameter on-device English TTS with voice
+  cloning from a few seconds of audio. It uses a Rust runtime (no PyTorch at
+  inference), 83 MB fp16 weights, and 80 ms streaming step. Apache-2.0 code with
+  Linnet Weights License for weights.
+source_url: https://github.com/VoxRT/LinnetTTS
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - On-Device
+  - Voice Cloning
+  - Rust
+  - Apache-2.0
+markdown: >-
+  ## Overview
+
+
+  LinnetTTS is a 41M-parameter on-device English TTS with voice cloning from a
+  few seconds of audio, using a Rust runtime with no PyTorch at inference.
+
+
+  ## License
+
+
+  Apache-2.0 code; Linnet Weights License for weights (free for commercial use
+  in products)
+
+
+  ## Deployment
+
+
+  Self-hosted, on-device
+
+
+  ## Repository
+
+
+  https://github.com/VoxRT/LinnetTTS
+brand: VoxRT
+brand_logo_url: https://github.com/VoxRT/LinnetTTS/raw/main/logo.png
+images:
+  - https://github.com/VoxRT/LinnetTTS/raw/main/logo.png
+updated_at: 2026-11-26 10:16

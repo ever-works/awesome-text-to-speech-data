@@ -1,0 +1,40 @@
+name: Amphion
+description: Amphion is an open-source audio, music, and speech generation
+  toolkit containing multiple state-of-the-art TTS models. It is developed by
+  Open-MMLAB and implemented in Python.
+source_url: https://github.com/open-mmlab/Amphion
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - AI-Powered
+  - Multilingual
+markdown: >-
+  ## Overview
+
+
+  Amphion is an open-source audio, music, and speech generation toolkit
+  containing multiple SOTA TTS models for research and production.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/open-mmlab/Amphion
+brand: Amphion
+brand_logo_url: https://github.com/open-mmlab/Amphion/raw/main/logo.png
+images:
+  - https://github.com/open-mmlab/Amphion/raw/main/logo.png
+updated_at: 2026-11-26 10:16

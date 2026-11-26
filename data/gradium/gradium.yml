@@ -1,0 +1,35 @@
+name: Gradium
+description: Gradium provides real-time TTS and STT for voice agents with 158ms
+  P50 time-to-first-audio. It supports streaming and instant voice cloning for
+  conversational AI applications.
+source_url: https://gradium.ai/
+category: Real-Time / Streaming TTS
+tags:
+  - API
+  - Real-Time
+  - Voice Cloning
+  - Freemium
+markdown: >-
+  ## Overview
+
+
+  Gradium offers real-time TTS and STT for voice agents with 158ms P50
+  time-to-first-audio, featuring streaming and instant voice cloning
+  capabilities.
+
+
+  ## Pricing
+
+
+  Free (45k credits) / $13 per month
+
+
+  ## Deployment
+
+
+  Cloud
+brand: Gradium
+brand_logo_url: https://gradium.ai/logo.svg
+images:
+  - https://gradium.ai/images/hero.png
+updated_at: 2026-11-26 10:16

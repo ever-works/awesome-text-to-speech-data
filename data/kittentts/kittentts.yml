@@ -1,0 +1,40 @@
+name: KittenTTS
+description: KittenTTS is an ONNX-based library for low-latency text-to-speech
+  that does not require a GPU. It is designed for efficient on-device TTS
+  inference.
+source_url: https://github.com/KittenML/KittenTTS
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - ONNX
+  - Low-Latency
+markdown: >-
+  ## Overview
+
+
+  KittenTTS is an ONNX-based library for low-latency TTS without requiring a
+  GPU, optimized for efficient on-device inference.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/KittenML/KittenTTS
+brand: KittenML
+brand_logo_url: https://github.com/KittenML/KittenTTS/raw/main/logo.png
+images:
+  - https://github.com/KittenML/KittenTTS/raw/main/logo.png
+updated_at: 2026-11-26 10:16

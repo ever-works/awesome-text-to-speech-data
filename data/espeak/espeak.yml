@@ -1,0 +1,66 @@
+name: eSpeak
+description: eSpeak is an open-source text-to-speech synthesizer by Jonathan
+  Duddington, first released on February 10, 2006, with the latest version from
+  April 3, 2022. It supports dozens of languages including Afrikaans, Albanian,
+  Cantonese, Catalan, Czech, Dutch, English variants, Esperanto, Finnish,
+  French, German, Hindi, Hungarian, Indonesian, Italian, Korean, Mandarin,
+  Polish, Portuguese, Russian, Spanish, Swedish, Turkish, Vietnamese, Welsh and
+  many more.
+source_url: https://espeak.github.io/espeak/
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - GPLv3+
+  - Cross-platform
+  - CLI
+featured: false
+markdown: >-
+  ## Overview
+
+
+  eSpeak is an open-source text-to-speech synthesizer developed by Jonathan
+  Duddington.
+
+
+  ## Technical Details
+
+
+  - **First public release date**: 2006, February 10
+
+  - **Latest stable version**: 2022, April 3
+
+  - **License**: GPLv3+
+
+  - **Available languages**: Afrikaans, Albanian, Armenian, Cantonese, Catalan,
+  Croatian, Czech, Danish, Dutch, English (British, US, Scottish,
+  Westindies...), Esperanto, Estonian, Finnish, French (France, Belgium),
+  Georgian, German, Greek, Hindi, Hungarian, Icelandic, Indonesian, Italian,
+  Kannada, Kurdish, Latvian, Lojban, Macedonian, Malayalam, Mandarin, Norwegian,
+  Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Spanish,
+  Swahili, Swedish, Tamil, Turkish, Vietnamese, Welsh
+
+  - **Available voices**: several
+
+  - **Programming language**: C++
+
+  - **Operating system(s)**: Linux, Windows, Mac OS X, RISC OS
+
+
+  ## Technical Voice Details
+
+
+  - SSML support: Yes
+
+  - SAPI version: 5.x
+
+  - CLI support: Yes
+
+
+  ## Repository
+
+
+  https://github.com/espeak-ng/espeak-ng
+brand: Jonathan Duddington
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-26 10:16

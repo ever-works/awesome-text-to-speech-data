@@ -1,0 +1,34 @@
+name: Smallest.ai (Waves)
+description: Smallest.ai offers a lightning-fast TTS API with sub-100ms latency,
+  designed for real-time conversational agents and voice bots. It is optimized
+  for speed in voice-based AI interactions.
+source_url: https://smallest.ai/
+category: Real-Time / Streaming TTS
+tags:
+  - API
+  - Real-Time
+  - AI-Powered
+  - Freemium
+markdown: >-
+  ## Overview
+
+
+  Smallest.ai (Waves) delivers lightning-fast TTS with sub-100ms latency for
+  real-time conversational agents and voice bots.
+
+
+  ## Pricing
+
+
+  Free (10k chars/mo) / PAYG ($0.08/1k chars)
+
+
+  ## Deployment
+
+
+  Cloud
+brand: Smallest.ai
+brand_logo_url: https://smallest.ai/logo.svg
+images:
+  - https://smallest.ai/images/hero.png
+updated_at: 2026-11-26 10:16

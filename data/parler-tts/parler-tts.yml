@@ -1,0 +1,40 @@
+name: Parler-TTS
+description: Parler-TTS is a lightweight, controllable speech generation model
+  with high naturalness, developed by Hugging Face. It is designed for efficient
+  TTS inference with controllable attributes.
+source_url: https://huggingface.co/parler-tts
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - AI-Powered
+  - Controllable
+markdown: >-
+  ## Overview
+
+
+  Parler-TTS is a lightweight, controllable speech generation model with high
+  naturalness, developed by Hugging Face for efficient TTS inference.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://huggingface.co/parler-tts
+brand: Hugging Face
+brand_logo_url: https://huggingface.co/front/assets/huggingface_logo.svg
+images:
+  - https://huggingface.co/front/assets/huggingface_logo.svg
+updated_at: 2026-11-26 10:16

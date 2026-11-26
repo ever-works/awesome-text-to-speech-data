@@ -1,0 +1,47 @@
+name: Qwen3-TTS-12Hz-1.7B-CustomVoice
+description: Qwen3-TTS-12Hz-1.7B-CustomVoice is an open-source text-to-speech
+  model by Qwen, hosted on Hugging Face. It is a 2B parameter model for custom
+  voice speech synthesis at 12Hz.
+source_url: https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Model Weights
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Qwen3-TTS-12Hz-1.7B-CustomVoice is an open-source text-to-speech model
+  developed by Qwen and hosted on Hugging Face.
+
+
+  ## Details
+
+
+  - Task: Text-to-Speech
+
+  - Parameters: 2B
+
+  - Platform: Hugging Face Hub
+
+  - Updated: Jan 29
+
+  - Downloads: 1.01M
+
+  - Likes: 2.26k
+
+
+  ## License
+
+
+  License information is available on the Hugging Face model page.
+
+
+  ## Repository
+
+
+  https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice
+brand: Qwen
+updated_at: 2026-11-26 10:16

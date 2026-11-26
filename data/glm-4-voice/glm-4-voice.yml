@@ -1,0 +1,40 @@
+name: GLM-4-Voice
+description: GLM-4-Voice is an end-to-end voice model from Zhipu AI supporting
+  real-time speech generation, emotion alteration, and bilingual dialogue. It is
+  implemented in Python/PyTorch.
+source_url: https://github.com/THUDM/GLM-4-Voice
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - Real-Time
+  - AI-Powered
+markdown: >-
+  ## Overview
+
+
+  GLM-4-Voice is an end-to-end voice model from Zhipu AI supporting real-time
+  speech generation, emotion alteration, and bilingual dialogue.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/THUDM/GLM-4-Voice
+brand: Zhipu AI
+brand_logo_url: https://github.com/THUDM/GLM-4-Voice/raw/main/logo.png
+images:
+  - https://github.com/THUDM/GLM-4-Voice/raw/main/logo.png
+updated_at: 2026-11-26 10:16

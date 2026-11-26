@@ -1,0 +1,48 @@
+name: IndicF5
+description: IndicF5 is an open-source text-to-speech model by AI4Bharat, hosted
+  on Hugging Face. It is a 0.4B parameter model supporting Indic languages for
+  speech synthesis.
+source_url: https://huggingface.co/ai4bharat/IndicF5
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Model Weights
+  - Multilingual
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  IndicF5 is an open-source text-to-speech model developed by AI4Bharat and
+  hosted on Hugging Face.
+
+
+  ## Details
+
+
+  - Task: Text-to-Speech
+
+  - Parameters: 0.4B
+
+  - Platform: Hugging Face Hub
+
+  - Updated: Oct 6
+
+  - Downloads: 43.3k
+
+  - Likes: 521
+
+
+  ## License
+
+
+  License information is available on the Hugging Face model page.
+
+
+  ## Repository
+
+
+  https://huggingface.co/ai4bharat/IndicF5
+brand: AI4Bharat
+updated_at: 2026-11-26 10:16

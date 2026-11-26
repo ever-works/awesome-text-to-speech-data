@@ -1,0 +1,46 @@
+name: Apple PlainTalk
+description: Apple PlainTalk is a speech synthesis system bundled with Mac OS X,
+  first released in 1984. It provides text-to-speech capabilities for Macintosh
+  systems with support for English (United States) and 15+ voices. Latest stable
+  version released in 2018.
+source_url: https://www.apple.com/
+category: TTS APIs
+tags:
+  - Proprietary
+  - Bundled
+  - macOS
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Apple PlainTalk is Apple's speech synthesis technology, first introduced in
+  1984 and bundled with Mac OS X.
+
+
+  ## Technical Details
+
+
+  - **Latest stable version**: 2018
+
+  - **License**: Bundled with Mac OS X (Proprietary)
+
+  - **Available languages**: English (United States), ...
+
+  - **Available voices**: 15+
+
+  - **Operating system(s)**: Macintosh
+
+  - **Programming language**: Not specified
+
+
+  ## Features
+
+
+  - System-level speech synthesis for macOS
+
+  - Bundled with the operating system at no additional cost
+brand: Apple Inc.
+brand_logo_url: https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png
+images: []
+updated_at: 2026-11-26 10:16

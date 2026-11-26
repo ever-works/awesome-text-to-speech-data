@@ -1,0 +1,40 @@
+name: Matcha-TTS
+description: Matcha-TTS is a fast TTS architecture employing conditional flow
+  matching, producing highly natural output. It is implemented in Python and
+  designed for efficient speech synthesis.
+source_url: https://github.com/shivammehta25/Matcha-TTS
+category: Open-Source TTS Models
+tags:
+  - Open Source
+  - Self-Hosted
+  - AI-Powered
+  - Flow Matching
+markdown: >-
+  ## Overview
+
+
+  Matcha-TTS is a fast TTS architecture using conditional flow matching to
+  produce highly natural speech output.
+
+
+  ## License
+
+
+  Open source
+
+
+  ## Deployment
+
+
+  Self-hosted, local
+
+
+  ## Repository
+
+
+  https://github.com/shivammehta25/Matcha-TTS
+brand: Shivam Mehta
+brand_logo_url: https://github.com/shivammehta25/Matcha-TTS/raw/main/logo.png
+images:
+  - https://github.com/shivammehta25/Matcha-TTS/raw/main/logo.png
+updated_at: 2026-11-26 10:16
