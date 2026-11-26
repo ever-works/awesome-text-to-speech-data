@@ -1,12 +1,54 @@
 - id: tts-apis
-  name: "TTS APIs"
+  name: TTS APIs
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="3" y="9" width="12" height="6"
+    rx="1"/><line x1="17" y1="9" x2="21" y2="9"/><line x1="17" y1="12" x2="22"
+    y2="12"/><line x1="17" y1="15" x2="21" y2="15"/></svg>
 - id: open-source-tts-models
-  name: "Open-Source TTS Models"
+  name: Open Source TTS Models
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
 - id: voice-cloning
-  name: "Voice Cloning"
+  name: Voice Cloning
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><circle cx="8" cy="8" r="2" fill="none"/><line
+    x1="8" y1="10" x2="8" y2="15"/><circle cx="16" cy="8" r="2"
+    fill="none"/><line x1="16" y1="10" x2="16" y2="15"/></svg>
 - id: real-time-streaming-tts
-  name: "Real-Time / Streaming TTS"
+  name: Real Time/Streaming TTS
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="m22 8-6 4 6 4V8Z"/><rect width="14"
+    height="12" x="2" y="6" rx="2" ry="2"/></svg>
 - id: dubbing-and-voiceover-apps
-  name: "Dubbing & Voiceover Apps"
+  name: Dubbing & Voiceover Apps
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><circle cx="9" cy="9" r="3"/><path d="M9 12V17M7
+    19H11"/><path d="M13 7V11M15 5V13M17 7V11"/></svg>
 - id: benchmarks-and-leaderboards
-  name: "Benchmarks & Leaderboards"
+  name: Benchmarks & Leaderboards
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><line x1="8" y1="20" x2="8" y2="10"/><line x1="12"
+    y1="20" x2="12" y2="6"/><line x1="16" y1="20" x2="16" y2="14"/><line x1="6"
+    y1="20" x2="18" y2="20"/></svg>
+- id: benchmarks-leaderboards
+  name: Benchmarks & Leaderboards
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><line x1="8" y1="20" x2="8" y2="10"/><line x1="12"
+    y1="20" x2="12" y2="6"/><line x1="16" y1="20" x2="16" y2="14"/><line x1="6"
+    y1="20" x2="18" y2="20"/></svg>
+- id: dubbing-voiceover-apps
+  name: Dubbing & Voiceover Apps
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0
+    0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42
+    0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5"
+    fill="currentColor"/></svg>

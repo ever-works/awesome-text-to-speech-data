@@ -1,16 +1,75 @@
-- url: "https://artificialanalysis.ai/text-to-speech"
-  title: "artificialanalysis.ai — Best Provider Voice Text to Speech (TTS) Models | Artificial Analysis"
-- url: "https://huggingface.co/models?pipeline_tag=text-to-speech"
-  title: "huggingface.co — Text-to-Speech Models"
-- url: "https://www.futurepedia.io/ai-tools/text-to-speech"
-  title: "Futurepedia — Text To Speech"
-- url: "https://zapier.com/blog/best-ai-voice-generator/"
-  title: "Zapier — The 8 best AI voice generators in 2026"
-- url: "https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers"
-  title: "Wikipedia — Comparison of speech synthesizers"
-- url: "https://raw.githubusercontent.com/wildminder/awesome-ai-voice/HEAD/README.md"
-  title: "GitHub list — wildminder/awesome-ai-voice (561★)"
-- url: "https://raw.githubusercontent.com/ishandutta2007/Awesome-Text-to-Speech/HEAD/README.md"
-  title: "GitHub list — ishandutta2007/Awesome-Text-to-Speech (231★)"
-- url: "https://github.com/topics/text-to-speech"
-  title: "GitHub topic — `text-to-speech` (13,959 repos)"
+- url: https://artificialanalysis.ai/text-to-speech
+  normalized_url: https://artificialanalysis.ai/text-to-speech
+  first_seen_at: 2026-11-26T09:56:14.214Z
+  last_attempted_at: 2026-11-26T09:56:14.214Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://artificialanalysis.ai/text-to-speech"
+- url: https://artificialanalysis.ai/text-to-speech/leaderboard/provider-voice
+  normalized_url: https://artificialanalysis.ai/text-to-speech/leaderboard/provider-voice
+  first_seen_at: 2026-11-26T10:14:26.526Z
+  last_attempted_at: 2026-11-26T10:14:26.526Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://artificialanalysis.ai/text-to-speech/leaderboard/provider-voice"
+- url: https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers
+  normalized_url: https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers
+  first_seen_at: 2026-11-26T10:08:36.466Z
+  last_attempted_at: 2026-11-26T10:08:36.466Z
+  last_success_at: 2026-11-26T10:08:36.466Z
+  status: success
+  items_created: 12
+  pipeline: agent-pipeline
+- url: https://github.com/topics/text-to-speech
+  title: GitHub topic — `text-to-speech` (13,959 repos)
+  normalized_url: https://github.com/topics/text-to-speech
+- url: https://huggingface.co/models?pipeline_tag=text-to-speech
+  normalized_url: https://huggingface.co/models?pipeline_tag=text-to-speech
+  first_seen_at: 2026-11-26T09:58:40.146Z
+  last_attempted_at: 2026-11-26T09:58:40.146Z
+  last_success_at: 2026-11-26T09:58:40.146Z
+  status: success
+  items_created: 29
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/ishandutta2007/Awesome-Text-to-Speech/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/ishandutta2007/Awesome-Text-to-Speech/HEAD/README.md
+  first_seen_at: 2026-11-26T10:06:15.567Z
+  last_attempted_at: 2026-11-26T10:06:15.567Z
+  last_success_at: 2026-11-26T10:06:15.567Z
+  status: success
+  items_created: 35
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/wildminder/awesome-ai-voice/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/wildminder/awesome-ai-voice/HEAD/README.md
+  first_seen_at: 2026-11-26T09:58:57.008Z
+  last_attempted_at: 2026-11-26T09:58:57.008Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/wildminder/awesome-ai-voice/HEAD/README.m\
+    d"
+- url: https://www.futurepedia.io/ai-tools/text-to-speech
+  normalized_url: https://www.futurepedia.io/ai-tools/text-to-speech
+  first_seen_at: 2026-11-26T10:10:00.228Z
+  last_attempted_at: 2026-11-26T10:10:00.228Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.futurepedia.io/ai-tools/text-to-speech"
+- url: https://zapier.com/blog/best-ai-voice-generator/
+  normalized_url: https://zapier.com/blog/best-ai-voice-generator
+  first_seen_at: 2026-11-26T10:09:30.032Z
+  last_attempted_at: 2026-11-26T10:09:30.032Z
+  last_success_at: 2026-11-26T10:09:30.032Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline

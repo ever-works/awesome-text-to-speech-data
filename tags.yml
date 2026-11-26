@@ -1,56 +1,126 @@
 - id: api
-  name: "API"
+  name: API
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: voice-cloning
-  name: "Voice Cloning"
+  name: Voice Cloning
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: real-time
-  name: "Real-Time"
+  name: Real Time
 - id: streaming
-  name: "Streaming"
+  name: Streaming
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: voiceover
-  name: "Voiceover"
+  name: Voiceover
 - id: dubbing
-  name: "Dubbing"
+  name: Dubbing
 - id: app
-  name: "App"
+  name: App
 - id: accessibility
-  name: "Accessibility"
+  name: Accessibility
 - id: editor
-  name: "Editor"
+  name: Editor
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: model-weights
-  name: "Model Weights"
+  name: Model Weights
 - id: mit
-  name: "MIT"
+  name: MIT
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: local
-  name: "Local"
+  name: Local
 - id: offline
-  name: "Offline"
+  name: Offline
 - id: multimodal
-  name: "Multimodal"
+  name: Multimodal
 - id: multilingual
-  name: "Multilingual"
+  name: Multilingual
 - id: benchmarks
-  name: "Benchmarks"
+  name: Benchmarks
 - id: leaderboard
-  name: "Leaderboard"
+  name: Leaderboard
 - id: comparison
-  name: "Comparison"
+  name: Comparison
 - id: free
-  name: "Free"
+  name: Free
 - id: localization
-  name: "Localization"
+  name: Localization
+- id: proprietary
+  name: Proprietary
+- id: bundled
+  name: Bundled
+- id: macos
+  name: MacOS
+- id: gguf
+  name: GGUF
+- id: cross-platform
+  name: Cross Platform
+- id: multi-language
+  name: Multi Language
+- id: neural-voice-synthesis
+  name: Neural Voice Synthesis
+- id: gplv3
+  name: GPLv3+
+- id: cli
+  name: CLI
+- id: university
+  name: University
+- id: research
+  name: Research
+- id: multi-speaker
+  name: Multi Speaker
+- id: bsd
+  name: BSD
+- id: java
+  name: Java
+- id: apache-20
+  name: Apache 2.0
+- id: model-hub
+  name: Model Hub
+- id: community
+  name: Community
+- id: emotional-prosody
+  name: Emotional Prosody
+- id: onnx
+  name: ONNX
+- id: low-latency
+  name: Low Latency
+- id: full-duplex
+  name: Full Duplex
+- id: on-device
+  name: On Device
+- id: rust
+  name: Rust
+- id: in-browser
+  name: In Browser
+- id: webgpu
+  name: WebGPU
+- id: windows
+  name: Windows
+- id: flow-matching
+  name: Flow Matching
+- id: sapi
+  name: SAPI
+- id: controllable
+  name: Controllable
+- id: multi-platform
+  name: Multi Platform
+- id: human-level
+  name: Human Level
+- id: benchmark
+  name: Benchmark
+- id: cross-lingual
+  name: Cross Lingual
+- id: native-app
+  name: Native App
+- id: apple-silicon
+  name: Apple Silicon

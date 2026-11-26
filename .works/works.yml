@@ -5,16 +5,28 @@ items_name: Items
 paging_mode: paging
 copyright_year: 2026
 name: Awesome Text-to-Speech
-initial_prompt: "A curated directory of text-to-speech and voice-cloning models,
-  APIs and apps, with quality and latency benchmarks. Include products such as
-  ElevenLabs, Cartesia, OpenAI TTS, Google Cloud Text-to-Speech, Azure AI
-  Speech, Amazon Polly, PlayHT, Murf AI, WellSaid Labs, Kokoro, Coqui XTTS,
-  F5-TTS, plus other notable commercial and open-source options. Categories: TTS
-  APIs, Open-Source TTS Models, Voice Cloning, Real-Time / Streaming TTS,
-  Dubbing & Voiceover Apps, Benchmarks & Leaderboards. For every item capture
-  the official website, a short factual description, pricing model (free,
-  freemium, paid, open source), deployment (cloud or self-hosted), key features
-  and integrations."
+initial_prompt: |-
+  A curated directory of text-to-speech and voice-cloning models, APIs and apps, with quality and latency benchmarks. Include products such as ElevenLabs, Cartesia, OpenAI TTS, Google Cloud Text-to-Speech, Azure AI Speech, Amazon Polly, PlayHT, Murf AI, WellSaid Labs, Kokoro, Coqui XTTS, F5-TTS, plus other notable commercial and open-source options. Categories: TTS APIs, Open-Source TTS Models, Voice Cloning, Real-Time / Streaming TTS, Dubbing & Voiceover Apps, Benchmarks & Leaderboards. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+  Initial categories: TTS APIs; Open-Source TTS Models; Voice Cloning; Real-Time / Streaming TTS; Dubbing & Voiceover Apps; Benchmarks & Leaderboards.
+  Target keywords: text to speech, tts api, ai voice generator, voice cloning.
+
+  Start with these source lists (use the raw README link for GitHub lists):
+  - https://artificialanalysis.ai/text-to-speech
+  - https://huggingface.co/models?pipeline_tag=text-to-speech
+  - https://www.futurepedia.io/ai-tools/text-to-speech
+  - https://zapier.com/blog/best-ai-voice-generator/
+  - https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers
+  - https://raw.githubusercontent.com/wildminder/awesome-ai-voice/HEAD/README.md
+  - https://raw.githubusercontent.com/ishandutta2007/Awesome-Text-to-Speech/HEAD/README.md
+  - https://github.com/topics/text-to-speech
+
+  Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+  One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+  Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+  Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+  Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+  Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
 website_repo: ever-works/awesome-text-to-speech-website
 company_website: https://text-to-speech.ever.works
 settings:
@@ -32,8 +44,67 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 activity_sync:
   mode: pull
 providers:
   pipeline: agent-pipeline
+metadata:
+  last_request_data:
+    generation_method: create-update
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome Text-to-Speech
+    prompt: |-
+      A curated directory of text-to-speech and voice-cloning models, APIs and apps, with quality and latency benchmarks. Include products such as ElevenLabs, Cartesia, OpenAI TTS, Google Cloud Text-to-Speech, Azure AI Speech, Amazon Polly, PlayHT, Murf AI, WellSaid Labs, Kokoro, Coqui XTTS, F5-TTS, plus other notable commercial and open-source options. Categories: TTS APIs, Open-Source TTS Models, Voice Cloning, Real-Time / Streaming TTS, Dubbing & Voiceover Apps, Benchmarks & Leaderboards. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+      Initial categories: TTS APIs; Open-Source TTS Models; Voice Cloning; Real-Time / Streaming TTS; Dubbing & Voiceover Apps; Benchmarks & Leaderboards.
+      Target keywords: text to speech, tts api, ai voice generator, voice cloning.
+
+      Start with these source lists (use the raw README link for GitHub lists):
+      - https://artificialanalysis.ai/text-to-speech
+      - https://huggingface.co/models?pipeline_tag=text-to-speech
+      - https://www.futurepedia.io/ai-tools/text-to-speech
+      - https://zapier.com/blog/best-ai-voice-generator/
+      - https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers
+      - https://raw.githubusercontent.com/wildminder/awesome-ai-voice/HEAD/README.md
+      - https://raw.githubusercontent.com/ishandutta2007/Awesome-Text-to-Speech/HEAD/README.md
+      - https://github.com/topics/text-to-speech
+
+      Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+      One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+      Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+      Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+      Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+      Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+    model: nvidia/nemotron-3.5-super-vl:free
+    providers:
+      pipeline: agent-pipeline
+    pluginConfig:
+      target_items: 50
+      max_pages_to_process: 8
+      capture_screenshots: false
+    _processedPluginConfig: {}
+  initial_prompt: |-
+    A curated directory of text-to-speech and voice-cloning models, APIs and apps, with quality and latency benchmarks. Include products such as ElevenLabs, Cartesia, OpenAI TTS, Google Cloud Text-to-Speech, Azure AI Speech, Amazon Polly, PlayHT, Murf AI, WellSaid Labs, Kokoro, Coqui XTTS, F5-TTS, plus other notable commercial and open-source options. Categories: TTS APIs, Open-Source TTS Models, Voice Cloning, Real-Time / Streaming TTS, Dubbing & Voiceover Apps, Benchmarks & Leaderboards. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+    Initial categories: TTS APIs; Open-Source TTS Models; Voice Cloning; Real-Time / Streaming TTS; Dubbing & Voiceover Apps; Benchmarks & Leaderboards.
+    Target keywords: text to speech, tts api, ai voice generator, voice cloning.
+
+    Start with these source lists (use the raw README link for GitHub lists):
+    - https://artificialanalysis.ai/text-to-speech
+    - https://huggingface.co/models?pipeline_tag=text-to-speech
+    - https://www.futurepedia.io/ai-tools/text-to-speech
+    - https://zapier.com/blog/best-ai-voice-generator/
+    - https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers
+    - https://raw.githubusercontent.com/wildminder/awesome-ai-voice/HEAD/README.md
+    - https://raw.githubusercontent.com/ishandutta2007/Awesome-Text-to-Speech/HEAD/README.md
+    - https://github.com/topics/text-to-speech
+
+    Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+    One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+    Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+    Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+    Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+    Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3.5-super-vl:free
